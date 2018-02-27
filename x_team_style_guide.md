@@ -53,11 +53,21 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
    ```java
-   if(statement) {
+   if (statement) {
     code
    }
    ```
   * switch statement
+  ```java
+  switch (key) {
+        case value:
+            
+            break;
+
+        default:
+            break;
+    }
+  ```
   * while loops
   * for loops
   * enhanced for loops
