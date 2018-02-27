@@ -16,6 +16,8 @@ and missed deadlines.
 ## How will we will track progress (and follow-up) on completion of tasks
   * We can keep track of the progress on the Github commit page
   * If one team member is done, that team member should write e-mail to other team members or post on the Canvas group page to inform the progress
+  * Send team leader a message upon completion of a task
+  * Notify team leader if an assigned task will not be completed by the assigned date it should be finished
 
 
 ## How will we communicate difficulties with a task assigned to us
