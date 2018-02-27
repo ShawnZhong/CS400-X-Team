@@ -69,5 +69,9 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   }
   ```
   * while loops
+  ```java
+  while(statement) {
+       code
+   }
   * for loops
   * enhanced for loops
