@@ -9,19 +9,20 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+  * By discussion
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+  * On github
 
 
 ## How will will communicate difficulties with a task assigned to us
+  * At Wechat
 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+  * Calendar 
 
 
 
