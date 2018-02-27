@@ -43,8 +43,9 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   * Use Javadoc for every class
   * Briefly describe the function of this class
 * fields
-
+  * Write comment before the each field member.
 * constructors
+  * Use Javadoc for constructors
 * methods
   * Use Javadoc for every methods
   * Include @param, @author, @param, @return, @throws if possible
