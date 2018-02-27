@@ -1,4 +1,4 @@
-# X-Team 75 Rules
+S# X-Team 75 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,11 +10,12 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
   * The team leader will assign the tasks based on their abality.
-  * If they don't know how to do the assigned task, or have some diffuclties, ask other to help.
+  * If they don't know how to do that, or have some diffuclties, ask other to help.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-  * On github
+  * See Github commit page
+  * If one team member is done, that team member should write e-mail to other team members or post on the Canvas group page to inform the progress
 
 
 ## How will will communicate difficulties with a task assigned to us
