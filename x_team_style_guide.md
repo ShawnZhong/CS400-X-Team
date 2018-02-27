@@ -72,7 +72,8 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   ```java
   while(statement) {
       code
-  }```
+  }
+  ```
   * for loops
   ```java
   for (initialization; termination; increment) {
