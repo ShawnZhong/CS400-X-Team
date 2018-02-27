@@ -6,8 +6,10 @@ Basically follow the default Eclipse style: ctrl + alt + F
 Somewhat descriptive name
 
 ### Examples
-* interfaces: UpperCamelCase. The name is typically noun or noun phrase (e.g. ListADT) sometimes adjective (e.g. Comparable).
-* classes: UpperCamelCase. The name is most noun or noun phrase (e.g. BalancedSearchTree). 
+* interfaces
+ * UpperCamelCase. The name is typically noun or noun phrase (e.g. ListADT) sometimes adjective (e.g. Comparable).
+* classes
+ * UpperCamelCase. The name is most noun or noun phrase (e.g. BalancedSearchTree). 
 * exception UpperCamelCase. 
 * fields: lowerCamelCase.
 * methods: lowerCamelCase.
