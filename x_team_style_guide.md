@@ -14,12 +14,21 @@ Somewhat descriptive name
        * The name is most noun or noun phrase (e.g. BalancedSearchTree). 
    * exception
        * UpperCamelCase. 
-   * fields: lowerCamelCase.
-   * methods: lowerCamelCase.
-   * parameters: lowerCamelCase.
+   * fields
+       * lowerCamelCase.
+       * Use 'leftChild' instead of 'LeftChild' or 'left_child'
+   * methods
+       * lowerCamelCase.
+       * Example: use 'updateNode' instead of 'UpdateNode' or 'update_node'
+   * parameters
+       * lowerCamelCase.
+       * Example: use 'leftChild' instead of 'LeftChild' or 'left_child'
    * local variables: lowerCamelCase.
-   * instance constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
-   * class constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
+   * instance constants
+       * CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
+       * Example: Use 'INITIAL_SIZE' instead of 'initialSize' or "initial_size"
+   * class constants
+       * CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
 
 
 ## Commenting style for public and private members of a class or interface:
