@@ -34,12 +34,14 @@ Somewhat descriptive name. Avoid using 'a', 'a1', 'abc', or anything like that.
 
 ## Commenting style for public and private members of a class or interface:
 
-Try not to use inline comment (i.e. use a seperate line for commenting before the code that your want to comment on)@param
-Include @author, @param, @return, @throws if possible
+Try not to use inline comment (i.e. use a seperate line for commenting before the code that your want to comment on)
+
 
 ### Examples
 
 * classes
+  * Use Javadoc for every class
+  * Include @param, @author, @param, @return, @throws if possible
 * fields
 * constructors
 * methods
