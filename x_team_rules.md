@@ -29,7 +29,7 @@ and missed deadlines.
 
 ## How will we back up each other to ensure that deadlines are not missed
   * We will meet together before the deadline and finish the unfinished parts of the assignment.
-  * Before one week, one day, 12 hours, 2 hours of the deadline, team should inform and notify the teammate who do the task about the progress and the completion by e-mails, phone calls or having individual/group meeting.
+  * At one week, one day, 12 hours, 2 hours before the deadline, team should inform and notify the teammate who do the task to know the progress and the completion by e-mails, phone calls or having individual/group meeting.
   * Frequently track and post the progress to inform the team.
   * If emergency happens, inform other team members and team leader immediately.
 
