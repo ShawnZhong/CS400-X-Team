@@ -1,4 +1,4 @@
-# X-Team 75 Rules
+s# X-Team 75 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -11,8 +11,7 @@ and missed deadlines.
 ## How will we assign (and reassign) tasks
   * The team leader will assign the tasks based on their ability.
   * Distribute tasks evenly based on estimated amount of code to write task and difficult of task.
-     * e.g. delete() is harder to implement than lookup()
-  * If they don't know how to do the task assigned, or have some diffuclties, ask other to help.
+  * If they don't know how to do the task assigned, or have some diffuclties, ask others to help.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
@@ -29,7 +28,10 @@ and missed deadlines.
 
 
 ## How will we back up each other to ensure that deadlines are not missed
-  * We will meet together before the deadline and finish the unfinished parts of the assignment
+  * We will meet together before the deadline and finish the unfinished parts of the assignment.
+  * Before one week, one day, 12 hours, 2 hours of the deadline, team should inform and notify the teammate who do the task about the progress and the completion by e-mails, phone calls or having individual/group meeting.
+  * Frequently track and post the progress to inform the team.
+  * If emergency happens, inform other team members and team leader immediately.
 
 
 
