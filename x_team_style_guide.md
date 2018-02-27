@@ -1,10 +1,8 @@
 # X-Team 75 Style Guide
 
-Use default Eclipse style
+Basically follow the default Eclipse style
 
 ## Naming conventions
-
-Camel-Case Naming
 
 ### Examples
 * interfaces
