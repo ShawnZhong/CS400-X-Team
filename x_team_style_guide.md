@@ -55,7 +55,8 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
    ```java
    if(statement) {
     code
-   }```
+   }
+   ```
   * switch statement
   * while loops
   * for loops
