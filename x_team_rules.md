@@ -14,7 +14,7 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-  * See Github commit page
+  * We can keep track of the progress on the Github commit page
   * If one team member is done, that team member should write e-mail to other team members or post on the Canvas group page to inform the progress
 
 
@@ -25,7 +25,7 @@ and missed deadlines.
 
 
 ## How will we back up each other to ensure that deadlines are not missed
-  * We will meet together before the deadline and get the assignement done. 
+  * We will meet together before the deadline and get the assignement done
 
 
 
