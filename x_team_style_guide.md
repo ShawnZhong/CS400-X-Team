@@ -66,7 +66,7 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
 
         default:
             break;
-    }
+  }
   ```
   * while loops
   * for loops
