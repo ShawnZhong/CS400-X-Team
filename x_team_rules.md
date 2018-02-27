@@ -11,6 +11,7 @@ and missed deadlines.
 ## How will we assign (and reassign) tasks
   * The team leader will assign the tasks based on their ability.
   * Distribute tasks evenly based on estimated amount of code to write task and difficult of task.
+          - e.g. delete() is harder and has a longer implementation than lookup()
   * If they don't know how to do the task assigned, or have some diffuclties, ask other to help.
 
 
