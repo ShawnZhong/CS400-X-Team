@@ -10,8 +10,10 @@ Somewhat descriptive name
        * UpperCamelCase.
        * The name is typically noun or noun phrase (e.g. ListADT) sometimes adjective (e.g. Comparable).
    * classes
-       * UpperCamelCase. The name is most noun or noun phrase (e.g. BalancedSearchTree). 
-   * exception UpperCamelCase. 
+       * UpperCamelCase.
+       * The name is most noun or noun phrase (e.g. BalancedSearchTree). 
+   * exception
+       * UpperCamelCase. 
    * fields: lowerCamelCase.
    * methods: lowerCamelCase.
    * parameters: lowerCamelCase.
