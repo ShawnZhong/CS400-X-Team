@@ -59,7 +59,7 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
    ```
   * switch statement
   ```java
-  switch (key) {
+  switch (variable) {
         case value:
             
             break;
