@@ -1,4 +1,4 @@
-# X-Team NN Style Guide
+# X-Team 75 Style Guide
 
 Use default Eclipse style
 
