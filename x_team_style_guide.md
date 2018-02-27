@@ -3,8 +3,7 @@
 Basically follow the default Eclipse style: ctrl + alt + F
 
 ## Naming conventions
-Somewhat descriptive name.
-Avoid using 'a', 'a1', or 'abc'
+Somewhat descriptive name. Avoid using 'a', 'a1', 'abc', or anything like that.
 
 ### Examples
    * interfaces
