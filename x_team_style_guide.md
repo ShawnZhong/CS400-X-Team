@@ -70,7 +70,7 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   ```
   * while loops
   ```java
-  while(statement) {
+  while (statement) {
       code
   }
   ```
@@ -81,3 +81,8 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   }
   ```
   * enhanced for loops
+  ```java
+  for (Type variable : collection) {
+     
+  }
+  ```
