@@ -3,9 +3,9 @@
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
    * What are the GitHub usernames of your team members?
-       * GitHub username 1: shawn.zhong@wisc.edu
-       * GitHub username 2: jyang436@wisc.edu
-       * GitHub username 3: chyan2@wisc.edu
+       * GitHub username 1: ShawnZhong
+       * GitHub username 2: sabersr
+       * GitHub username 3: chyan2
        * GitHub username 4: N/A
        * GitHub username 5: N/A
    * When did you complete this exercise? 
