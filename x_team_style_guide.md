@@ -52,10 +52,10 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   * Include @param, @author, @param, @return, @throws if possible
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
-   `Java
+   ```java
    if(statement) {
     code
-   }`
+   }```
   * switch statement
   * while loops
   * for loops
