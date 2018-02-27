@@ -24,7 +24,7 @@ and missed deadlines.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-  * Calendar 
+  * We will meet together before the deadline and get the assignement done. 
 
 
 
