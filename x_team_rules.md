@@ -27,7 +27,7 @@ and missed deadlines.
 
 
 ## How will we back up each other to ensure that deadlines are not missed
-  * We will meet together before the deadline and get the assignement done
+  * We will meet together before the deadline and finish the unfinished parts of the assignment
 
 
 
