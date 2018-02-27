@@ -13,10 +13,11 @@ Somewhat descriptive name
        * UpperCamelCase.
        * The name is most noun or noun phrase (e.g. BalancedSearchTree). 
    * exception
-       * UpperCamelCase. 
+       * UpperCamelCase.
+       * Example: use 'DuplicateKeyException' instead of 'duplicateKeyException' or 'duplicate_key_exception'
    * fields
        * lowerCamelCase.
-       * Use 'leftChild' instead of 'LeftChild' or 'left_child'
+       * Example: use 'itemCount' instead of 'item_count' or 'ItemCount'
    * methods
        * lowerCamelCase.
        * Example: use 'updateNode' instead of 'UpdateNode' or 'update_node'
