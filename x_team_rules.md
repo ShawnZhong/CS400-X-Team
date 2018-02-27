@@ -1,4 +1,4 @@
-s# X-Team 75 Rules
+## X-Team 75 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
