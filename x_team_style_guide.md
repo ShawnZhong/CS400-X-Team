@@ -1,10 +1,10 @@
 # X-Team NN Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Use default Eclipse style
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Camel-Case Naming
 
 ### Examples
 * interfaces
@@ -19,7 +19,8 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+Try not to use inline comment (i.e. use a seperate line for commenting before the code that your want to comment on)@param
+Include @author, @param, @return, @throws if possible
 
 ### Examples
 
