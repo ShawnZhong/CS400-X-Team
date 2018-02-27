@@ -6,25 +6,18 @@ Basically follow the default Eclipse style: ctrl + alt + F
 Somewhat descriptive name
 
 ### Examples
-   * What are the GitHub usernames of your team members?
-       * GitHub username 1: ShawnZhong
-       * GitHub username 2: sabersr
-       * GitHub username 3: chyan2
-       * GitHub username 4: N/A
-       * GitHub username 5: N/A
-       
-* interfaces
-
- UpperCamelCase. The name is typically noun or noun phrase (e.g. ListADT) sometimes adjective (e.g. Comparable).
-* classes
- * UpperCamelCase. The name is most noun or noun phrase (e.g. BalancedSearchTree). 
-* exception UpperCamelCase. 
-* fields: lowerCamelCase.
-* methods: lowerCamelCase.
-* parameters: lowerCamelCase.
-* local variables: lowerCamelCase.
-* instance constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
-* class constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
+   * interfaces
+       * UpperCamelCase.
+       * The name is typically noun or noun phrase (e.g. ListADT) sometimes adjective (e.g. Comparable).
+   * classes
+       * UpperCamelCase. The name is most noun or noun phrase (e.g. BalancedSearchTree). 
+   * exception UpperCamelCase. 
+   * fields: lowerCamelCase.
+   * methods: lowerCamelCase.
+   * parameters: lowerCamelCase.
+   * local variables: lowerCamelCase.
+   * instance constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
+   * class constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
 
 
 ## Commenting style for public and private members of a class or interface:
