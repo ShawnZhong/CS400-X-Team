@@ -1,6 +1,6 @@
 # X-Team 75 Style Guide
 
-Basically follow the default Eclipse style
+Basically follow the default Eclipse style: ctrl + alt + F
 
 ## Naming conventions
 
