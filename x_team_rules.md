@@ -9,7 +9,8 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-  * By discussion
+  * The team leader will assign the tasks based on their abality.
+  * If they don't know how to do that, or have some diffuclties, ask other to help.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
