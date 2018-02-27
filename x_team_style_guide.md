@@ -46,6 +46,7 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   * Write comment before the each field member.
 * constructors
   * Use Javadoc for constructors
+  * Include @param, @author, @param, @return, @throws if possible
 * methods
   * Use Javadoc for every methods
   * Include @param, @author, @param, @return, @throws if possible
