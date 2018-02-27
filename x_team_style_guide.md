@@ -3,6 +3,7 @@
 Basically follow the default Eclipse style: ctrl + alt + F
 
 ## Naming conventions
+Somewhat descriptive name
 
 ### Examples
 * interfaces: Upper-case Camel
