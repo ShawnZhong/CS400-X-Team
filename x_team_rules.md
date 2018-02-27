@@ -1,4 +1,4 @@
-S# X-Team 75 Rules
+# X-Team 75 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -8,7 +8,7 @@ This document helps individual members understand the team's expectations,
 and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
-## How we will assign (and reassign) tasks
+## How will we assign (and reassign) tasks
   * The team leader will assign the tasks based on their ability.
   * If they don't know how to do the task assigned, or have some diffuclties, ask other to help.
 
