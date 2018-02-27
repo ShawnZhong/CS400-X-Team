@@ -6,12 +6,10 @@
        * GitHub username 1: ShawnZhong
        * GitHub username 2: sabersr
        * GitHub username 3: chyan2
-       * GitHub username 4: N/A
-       * GitHub username 5: N/A
    * When did you complete this exercise? 
        * Tuesday, February 27
    * How long did it take your team to complete this exercise? 
-       * 30 mins
+       * 50 mins
 
 ## Table of Contents
 
