@@ -54,18 +54,18 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   * if statements
    ```java
    if (statement) {
-    code
+       code
    }
    ```
   * switch statement
   ```java
   switch (variable) {
-        case value:
+      case value:
             
-            break;
+          break;
 
-        default:
-            break;
+      default:
+          break;
   }
   ```
   * while loops
@@ -77,7 +77,7 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
   * for loops
   ```java
   for (initialization; termination; increment) {
-          statement(s)
+      statement(s)
   }
   ```
   * enhanced for loops
