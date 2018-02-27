@@ -41,10 +41,13 @@ Try not to use inline comment (i.e. use a seperate line for commenting before th
 
 * classes
   * Use Javadoc for every class
-  * Include @param, @author, @param, @return, @throws if possible
+  * Briefly describe the function of this class
 * fields
+
 * constructors
 * methods
+  * Use Javadoc for every methods
+  * Include @param, @author, @param, @return, @throws if possible
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
