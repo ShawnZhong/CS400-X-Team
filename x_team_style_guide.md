@@ -1,4 +1,4 @@
-# X-Team 75 Style Guide
+ # X-Team 75 Style Guide
 
 Basically follow the default Eclipse style: ctrl + alt + F
 
@@ -6,15 +6,16 @@ Basically follow the default Eclipse style: ctrl + alt + F
 Somewhat descriptive name
 
 ### Examples
-* interfaces: Upper-case Camel
-* classes: Upper-case Camel
-* exception Upper-case Camel
-* fields: Lower-case Camel
-* methods: Lower-case Camel
-* parameters: Lower-case Camel
-* local variables: Lower-case Camel
-* instance constants: Capitalized
-* class constants: Capitalized
+* interfaces: UpperCamelCase. The name is typically noun or noun phrase (e.g. ListADT) sometimes adjective (e.g. Comparable).
+* classes: UpperCamelCase. The name is most noun or noun phrase (e.g. BalancedSearchTree). 
+* exception UpperCamelCase. 
+* fields: lowerCamelCase.
+* methods: lowerCamelCase.
+* parameters: lowerCamelCase.
+* local variables: lowerCamelCase.
+* instance constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
+* class constants: CONSTANT_CASE: all uppercase letters, with words separated by underscores. 
+
 
 ## Commenting style for public and private members of a class or interface:
 
