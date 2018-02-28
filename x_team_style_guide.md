@@ -1,6 +1,6 @@
 ## X-Team 75 Style Guide
 
-Basically follow the default Eclipse style: Ctrl + Alt + F to format properly
+Basically follow the default Eclipse style: Ctrl + Shift + F to format properly
 
 ## Naming conventions
 Somewhat descriptive name. Avoid using 'a', 'a1', 'abc', or anything like that.
